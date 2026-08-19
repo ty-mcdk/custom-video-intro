@@ -1,0 +1,21 @@
+# =========================
+#  gen1recomp Video Assets
+# =========================
+
+# Generated engine formats
+*.ogv
+*.ogg
+
+# Common source video formats
+*.mp4
+*.webm
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.flv
+*.m4v
+*.mpg
+*.mpeg
+*.3gp
+

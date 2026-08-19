@@ -1,0 +1,19 @@
+{
+  "id": "custom_video_intro",
+  "name": "Custom Video Intro",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.1.86",
+  "category": "GAMEPLAY",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "incompatible": [],
+  "games": ["gen1"],
+  "experimental": false,
+  "description": "Lets users replace the intro video on Gen1Recomp",
+  "github": "ty-mcdk/custom-video-intro"
+}
